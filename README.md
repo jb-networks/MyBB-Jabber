@@ -1,2 +1,2 @@
 # MyBB-Jabber
-MyBB Jabber Plugin
+Plugin to modify MyBB to replace "Yahoo" field with "XMPP".
